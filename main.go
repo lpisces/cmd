@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lpisces/cli/cmd/boot"
+	"github.com/lpisces/cmd/cmd/boot"
 	"gopkg.in/urfave/cli.v1"
 	"log"
 	"os"
