@@ -25,7 +25,7 @@ func Default() *Config {
 
 	return &Config{
 		false,
-		"./config.ini",
+		"config.ini",
 	}
 
 }
